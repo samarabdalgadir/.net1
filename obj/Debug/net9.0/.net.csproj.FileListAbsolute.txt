@@ -1,0 +1,14 @@
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\bin\Debug\net9.0\.net.exe
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\bin\Debug\net9.0\.net.deps.json
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\bin\Debug\net9.0\.net.runtimeconfig.json
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\bin\Debug\net9.0\.net.dll
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\bin\Debug\net9.0\.net.pdb
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.AssemblyInfoInputs.cache
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.AssemblyInfo.cs
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.csproj.CoreCompileInputs.cache
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.dll
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\refint\.net.dll
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.pdb
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\.net.genruntimeconfig.cache
+C:\Users\Marwan\Downloads\new projct 1 لممارسة وتطبيق\week 2 #c.NET\.net\obj\Debug\net9.0\ref\.net.dll
